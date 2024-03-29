@@ -1,3 +1,5 @@
+All queries are in the file 'metadata.sql'
+
 Question 1
 
 Union All
